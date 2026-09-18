@@ -6,8 +6,6 @@ Requires **macOS 27 or later** and **Swift 6.4 / Xcode 27**. The appearance spec
 
 ![TrafficLightKit buttons in Light and Dark appearance, including the standard red, yellow, and green buttons and custom-colored buttons](Documentation/traffic-lights.gif)
 
-Resting and hover states in Light and Dark appearance, captured from the library on macOS 27.2. The preview also shows custom colors, unsaved changes, and disabled buttons.
-
 ## Install
 
 In Xcode, choose **File → Add Package Dependencies**, enter `https://github.com/jstw8/TrafficLightKit`, and add **TrafficLightKit** to your app target. For a local checkout, choose **Add Local** instead.
